@@ -1,4 +1,4 @@
-# 🚀 Daily Data Engineering Practice
+# 🚀 Data Engineering Practice
 
 Hi, I'm Shivam — a Data Engineer focused on building strong problem-solving skills in:
 
