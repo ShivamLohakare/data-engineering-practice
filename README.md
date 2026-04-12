@@ -12,32 +12,42 @@
 
 ---
 
-## 🧠 Skills
-
 ## ⚙️ Tech Stack
 
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
-![PySpark](https://img.shields.io/badge/PySpark-orange?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge)
-![Databricks](https://img.shields.io/badge/Databricks-red?style=for-the-badge)
+<p align="center">
 
-- SQL (Window Functions, Optimization)
-- Python (Data Processing)
-- PySpark (Transformations, ETL)
-- Azure Databricks
+<img src="https://img.shields.io/badge/SQL-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+
+</p>
+
+## 🧠 Core Skills
+
+- **SQL** → Window Functions, Query Optimization  
+- **Python** → Data Processing, Problem Solving  
+- **PySpark** → Transformations, ETL Pipelines  
+- **Azure Databricks** → Data Engineering Workflows  
+
 
 ---
 
 ## 📊 GitHub Stats
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamLohakare&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamLohakare&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ShivamLohakare&theme=github-dark&hide_border=true" width="48%" />
+</p>
 
 ---
 
-## 🔥 Streak
+## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShivamLohakare)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShivamLohakare&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
+</p>
 
 ---
 
